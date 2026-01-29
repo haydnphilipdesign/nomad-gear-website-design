@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+## Deploy (Vercel)
+
+- Framework preset: Vite
+- Build command: `npm run build`
+- Output directory: `dist`
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
